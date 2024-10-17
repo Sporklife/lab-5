@@ -32,3 +32,70 @@
     border: 2px black solid;
     padding : 10px;
 }
+
+.rounded-border{
+    border: 3px red dotted;
+    border-radius : 15px;
+    padding: 10px;
+
+}
+
+.margin-text{
+    margin: 30px;
+    background-color: bisque;
+}
+
+.custom-margin{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: blueviolet;
+}
+
+.inline-element{
+    display: inline;
+    padding : 10px;
+    border : 2px black solid;
+
+}
+
+
+.block-element{
+    display: block;
+    background-color: azure;
+    padding: 10px;
+    border: 1px black solid;
+}
+
+.inline-block-element{
+    display: inline-block;
+    background-color: rgb(67, 92, 92);
+    padding: 10px;
+    border: 1px rgb(228, 12, 12) solid;
+}
+
+.hidden-element{
+    display: none;
+    background-color: brown;
+    padding: 10px;
+
+}
+
+
+.visible-element{
+    visibility: visible;
+    background-color: cadetblue;
+    padding: 10px;
+}
+
+.invisible-element{
+    visibility: hidden;
+    background-color: rgb(75, 9, 82);
+    padding: 10px;
+}
+
+.transparent-box{
+    background-color: blue;
+    opacity: 0.5;
+}
